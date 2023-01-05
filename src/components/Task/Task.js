@@ -48,6 +48,9 @@ class Task extends React.Component {
             <button className="delete-button" onClick={this.removeTask}>
               Edit
             </button>
+            <button className="delete-button" onClick={this.removeTask}>
+              Add
+            </button>
           </div>
         </div>
       </div>
