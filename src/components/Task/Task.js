@@ -43,7 +43,7 @@ class Task extends React.Component {
               x
             </button>
             <button className="delete-button" onClick={this.removeTask}>
-              Delete
+              DeleteTest
             </button>
           </div>
         </div>
